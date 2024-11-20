@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Banudeep</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=banudeep-bee&label=Profile%20views&color=0e75b6&style=flat" alt="banudeep-bee" /> </p>
 
 - 🔭 I’m currently working on **Mini project**
