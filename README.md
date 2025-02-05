@@ -31,9 +31,6 @@
 
 ![C](https://github-readme-streak-stats.herokuapp.com/?user=banudeep-bee&theme=dark&hide_border=false)
 
-<div align="center">
-### ✍️ Random Dev Quote
-![C](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=banudeep-bee&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banudeep-bee&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
