@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ML project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently matstering **Javascript**
 
 - 👯 I’m looking to collaborate on **Web development**
 
