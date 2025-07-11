@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate fullstack developer</h3>
 
 <div align="center">
-  <img height="150" src="https://drive.google.com/uc?export=view&id=1y3mS1CnD31qcXyMSYEndI2NxLV3xbKWe" />
+  <img height="150" src="bumblebee.gif" />
 </div>
 
 
