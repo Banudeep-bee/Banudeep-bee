@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://banudeep-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/👑%20My%20Portfolio-GOLDEN%20✨-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/👑%20My%20Portfolio%20✨-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
